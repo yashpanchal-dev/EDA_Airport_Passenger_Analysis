@@ -1,4 +1,4 @@
-# ✈️ Airport Traffic EDA (Exploratory Data Analysis)
+# ✈️ Airport Passenger Analysis EDA (Exploratory Data Analysis)
 
 This repository contains an **Exploratory Data Analysis (EDA)** project performed on an airport traffic dataset using **Python** and visualization libraries.
 
